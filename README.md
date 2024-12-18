@@ -10,7 +10,7 @@
 
 Attribute | Description
 ----------|-------------
-`selector` (String) | 
+`selector` (String) | CSS selector (class/id)
 `default_r` (String) | Default tcode
 `default_link` (String) | Default tcode link
 `r` (String) | tcode
